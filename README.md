@@ -1,2 +1,0 @@
-# dosya
-dosya
